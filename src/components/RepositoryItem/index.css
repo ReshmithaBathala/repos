@@ -1,0 +1,43 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.repository-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: lightgrey;
+  padding: 10px;
+}
+.avatar-url {
+  height: 50px;
+  width: 50px;
+  padding-top: 10px;
+}
+.stars-img {
+  height: 30px;
+  width: 30px;
+  padding-top: 10px;
+  margin-right: 10px;
+}
+.count-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.count {
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #1e293b;
+  padding-bottom: 20px;
+}
+.name {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #e73959;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,29 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.language-button {
+  font-size: 15px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  border: 0px solid #1e293b;
+  cursor: pointer;
+  background-color: transparent;
+}
+.active-language-button {
+  font-size: 15px;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  border: 2px solid #0284c7;
+  cursor: pointer;
+  background-color: transparent;
+}
+.language-list-item-container {
+  margin: 10px;
+}
